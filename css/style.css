@@ -7,14 +7,35 @@ body{
     margin: 0;
 }
 
+.navbar{
+    background-color: #B2DFDB;;
+}
 .navbar img{
     width: 100px;
     margin: 0;
     padding: 0;
 }
 
-.img-quem-somos{
-    border: 1px solid black;
+.btn{
+    background-color: #FF9800;
 }
 
+h3, p, label{
+    color: #757575;
+}
 
+.slide{
+    height: 500px;
+}
+
+.img-fluid{
+    height: 250px;
+}
+
+.container{
+    background-color: #rgb(95, 206, 193);
+}
+
+footer{
+    background-color: #B2DFDB;
+}
